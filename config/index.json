@@ -1,0 +1,15 @@
+{
+    "name": "OIDC",
+    "port": 9091,
+    "db": {
+      "type": "mysql",
+      "options": {
+        "user": "root",
+        "password": "breakIN",
+        "host": "localhost",
+        "port": 3306,
+        "dbname": "sundog",
+        "connectTimeout": "10s"
+      }
+	}
+}
